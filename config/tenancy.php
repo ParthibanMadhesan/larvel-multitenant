@@ -20,7 +20,8 @@ return [
         '127.0.0.1',
         'localhost',
          'domain1',
-         'domain2'
+         'domain2',
+         'domain3'
  
         
     ],
